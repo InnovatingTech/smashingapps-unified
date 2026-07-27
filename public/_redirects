@@ -1,3 +1,6 @@
+# Canonical host: keep the Netlify deployment hostname out of the index
+https://smashingapps.netlify.app/* https://smashingapps.ai/:splat 301!
+
 # Redirects for SmashingApps.ai unified application
 
 # SPA Redirects - let React Router handle all routing
