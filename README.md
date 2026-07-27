@@ -1,5 +1,7 @@
 # SmashingApps.ai
 
+> **Opace open-source portfolio:** [Browse Opace AI tools, web applications, WordPress plugins and Agent Skills](https://github.com/OpaceDigitalAgency/OpaceDigitalAgency)
+
 A modern suite of AI-powered productivity tools, hosted at [smashingapps.ai](https://smashingapps.ai).
 
 ## Overview
