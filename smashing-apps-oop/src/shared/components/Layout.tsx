@@ -188,9 +188,6 @@ const Layout: React.FC = () => {
             <div className="flex items-center space-x-6 text-sm text-gray-600">
               <a href="#" className="hover:text-gray-900">Documentation</a>
               <a href="#" className="hover:text-gray-900">Support</a>
-              <a href="https://opace.agency" target="_blank" rel="noopener noreferrer" className="hover:text-gray-900">
-                Opace Digital Agency
-              </a>
             </div>
           </div>
         </div>
